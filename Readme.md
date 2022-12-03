@@ -1,3 +1,5 @@
+Olá, esses são alguns lembretes para o git
+
 *Git Config (Git p/ GitHub)*
 
 $git init → Inicializa
